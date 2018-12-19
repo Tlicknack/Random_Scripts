@@ -2,7 +2,7 @@
 
 #This script takes an annotation (GFF) and makes a modified GFF with intergenic coordinates
 
-#INPUT: GFF
+#INPUT: genic GFF
 #OUTPUT: intergenic GFF
 
 library("seqinr")
